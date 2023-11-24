@@ -2,14 +2,14 @@
 
 ## Jogo desenvolvido para a disciplina de jogos 
 
-https://github.com/mariafreis/zombies_game/assets/70169979/18e36a7b-3d42-4b8e-b08d-03622c0114cc
+https://github.com/mariafreis/zombies_game/assets/70169979/3739663b-b8e2-4cd3-8e50-7a6b2c173e1d
 
-
-## alguns critérios para o desenvolvimento:
+## Alguns critérios para o desenvolvimento:
 01 - Quando o personagem passar sobre o taco de
 baseball ele o “pegue” na mão.
 
-![image](https://github.com/mariafreis/zombies_game/assets/70169979/cc8cb3b3-e9d8-4415-b895-bd34e6770e66)
+![Imagem do WhatsApp de 2023-11-23 à(s) 21 56 55_3eb299a0](https://github.com/mariafreis/zombies_game/assets/70169979/d7736cf7-8aff-49b5-8ae9-3b6bfd741d64)
+
 
 02 - Quando o jogador apertar a barra de espaço (ou
 qualquer outra tecla de sua escolha) ele ataque e inicie a
@@ -19,12 +19,14 @@ animação de bater com o taco.
 zombie ele deve morrer (existe animação de morte do
 zombie)
 
-![image](https://github.com/mariafreis/zombies_game/assets/70169979/192cd7da-d143-4912-a466-d0596cad8e1e)
+![Imagem do WhatsApp de 2023-11-23 à(s) 21 57 05_9c28fe4a](https://github.com/mariafreis/zombies_game/assets/70169979/96eb1541-695e-466e-9d43-abd39809120d)
+
 
 04 - Adicione outras armas ao jogo e programe o
 comportamento de pegar arma na mão.
 
-![image](https://github.com/mariafreis/zombies_game/assets/70169979/5070cf25-57e9-4bd3-a36c-f80d7f1dc6e4)
+![Imagem do WhatsApp de 2023-11-23 à(s) 21 57 13_1af4e561](https://github.com/mariafreis/zombies_game/assets/70169979/2211f9d0-7fe4-438e-9843-371cd15bc3cc)
+
 
 05 - Adicione sons ao jogo, ao aproximar o zombie o
 jogador deve ouvir algum som, ao atacar outro som e ao
